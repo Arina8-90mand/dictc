@@ -1,12 +1,6 @@
 # Словари в Python
 
-$$
-\int_{}^{} \frac{dx}{a^2 + x^2}=\frac{1}{a}\arctan\frac{x}{a}+C  (a\neq0)
-$$
 
-$$
-\int_{}^{}\frac{dx}{\sqrt{x^2\pm a^2}}= ln\mid x + \sqrt{x^2\pm a^2}\mid + C (a>0)
-$$
 
 **Словарь** — это неупорядоченный набор элементов. Элемент словаря представляет собой пару ключ: значение. Словари оптимизированы для получения значений по заданному ключу.
 
@@ -59,3 +53,11 @@ for key, value in a_dict.items():
 ![Описание](dict.png)
 
 Ссылка на [GitHub](https://github.com)
+
+$$
+\int_{}^{} \frac{dx}{a^2 + x^2}=\frac{1}{a}\arctan\frac{x}{a}+C  (a\neq0)
+$$
+
+$$
+\int_{}^{}\frac{dx}{\sqrt{x^2\pm a^2}}= ln\mid x + \sqrt{x^2\pm a^2}\mid + C (a>0)
+$$
